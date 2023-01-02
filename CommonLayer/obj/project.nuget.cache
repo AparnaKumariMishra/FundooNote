@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXL9vkwVLZk+JuxwPBThwfzN15sCW74Dgsvdeq/Yu97UxY3kYUNBgioVHVjctM5mnx3UIyRqvTrM33ZiIH44yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\FundoApp\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
